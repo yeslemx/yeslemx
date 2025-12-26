@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Yeslem Ahmed! 👋
 
-<!--
-**yeslemx/yeslemx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **EdTech Researcher** and **Full-Stack Developer** based in Medina, Saudi Arabia. I specialize in bridging the gap between pedagogical theory and technical implementation.
 
-Here are some ideas to get you started:
+- 🎓 **Academic:** Master's Student in **Curriculum & Instruction** at the Islamic University of Madinah.
+- 🔭 **Current Project:** Building **[Zameeli]**, a peer-to-peer learning platform for university students.
+- 🔬 **Research Focus:** Artificial Intelligence in Education, Curriculum Development, and Instructional Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+
+**Backend:**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeslemx)
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Yeslem-Ahmed-Najem)
+- 📧 [Email](mailto:yeslemx@gmail.com)
