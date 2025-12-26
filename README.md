@@ -2,8 +2,7 @@
 
 I am an **EdTech Researcher** and **Full-Stack Developer** based in Medina, Saudi Arabia. I specialize in bridging the gap between pedagogical theory and technical implementation.
 
-- 🎓 **Academic:** Master's Student in **Curriculum & Instruction** at the Islamic University of Madinah.
-- 🔭 **Current Project:** Building **[Zameeli]**, a peer-to-peer learning platform for university students.
+- 🎓 **Academic:** Master's Student in **Curricula and Teaching Methods** at the Islamic University of Madinah.
 - 🔬 **Research Focus:** Artificial Intelligence in Education, Curriculum Development, and Instructional Design.
 
 ---
